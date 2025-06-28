@@ -134,7 +134,7 @@ Authorization: Bearer <your_token>
 ![Screenshot 2025-06-28 at 3 55 02 PM](https://github.com/user-attachments/assets/f4c8e352-a39d-44e1-9690-56e5ed99cedc  )
 
 
-apils
+api's
 
 | Method | Endpoint                            | Purpose                            | Who Can Access     |
 | ------ | ----------------------------------- | ---------------------------------- | ------------------ |
